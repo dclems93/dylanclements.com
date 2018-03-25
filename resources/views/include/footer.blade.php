@@ -1,0 +1,1 @@
+<footer>Copyright © 2018 Dylan Clements all rights reserved.</footer>
